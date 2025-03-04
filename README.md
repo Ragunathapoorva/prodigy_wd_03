@@ -1,4 +1,5 @@
 Project Overview:
+just clone a respiratory to add to vs code to execute a code .
 The Tic-Tac-Toe web application is a simple and interactive game built using HTML, CSS, and JavaScript. The objective of the game is to create a responsive grid layout where two players can take turns marking their symbols (X or O) in a 3x3 grid. The first player to get three of their symbols in a row, column, or diagonal wins the game.
 
 Why We Use These Technologies:
